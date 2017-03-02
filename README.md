@@ -26,6 +26,6 @@ A Q-chart is a chart that specifical represents how my code is computed.
 * How would you map a certain value to a qubit vector to predict it's value? 
 * How does the qubit check the multiple values at one time? 
 
-Thank you for looking at my
+Thank you for looking at my project.
 
-please email me for questions and suggestions - admin@shadowkingbubba.com
+please email me for questions and suggestions - *admin@shadowkingbubba.com*
