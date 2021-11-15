@@ -27,5 +27,3 @@ A Q-chart is a chart that specifical represents how my code is computed.
 * How does the qubit check the multiple values at one time? 
 
 Thank you for looking at my project.
-
-please email me for questions and suggestions - *admin@shadowkingbubba.com*
